@@ -100,3 +100,18 @@
 /Users/admin/Desktop/Schools4/APBD/Zajęcia 6/WebApplication2/WebApplication2/obj/Debug/netcoreapp3.1/staticwebassets/WebApplication2.StaticWebAssets.xml
 /Users/admin/Desktop/Schools4/APBD/Zajęcia 6/WebApplication2/WebApplication2/obj/Debug/netcoreapp3.1/WebApplication2.dll
 /Users/admin/Desktop/Schools4/APBD/Zajęcia 6/WebApplication2/WebApplication2/obj/Debug/netcoreapp3.1/WebApplication2.pdb
+/Users/admin/Desktop/Schools4/APBD/Zajęcia6/WebApplication2/WebApplication2/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/admin/Desktop/Schools4/APBD/Zajęcia6/WebApplication2/WebApplication2/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/admin/Desktop/Schools4/APBD/Zajęcia6/WebApplication2/WebApplication2/bin/Debug/netcoreapp3.1/launchSettings.json
+/Users/admin/Desktop/Schools4/APBD/Zajęcia6/WebApplication2/WebApplication2/bin/Debug/netcoreapp3.1/WebApplication2.dll
+/Users/admin/Desktop/Schools4/APBD/Zajęcia6/WebApplication2/WebApplication2/bin/Debug/netcoreapp3.1/WebApplication2.pdb
+/Users/admin/Desktop/Schools4/APBD/Zajęcia6/WebApplication2/WebApplication2/obj/Debug/netcoreapp3.1/WebApplication2.csprojAssemblyReference.cache
+/Users/admin/Desktop/Schools4/APBD/Zajęcia6/WebApplication2/WebApplication2/obj/Debug/netcoreapp3.1/WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+/Users/admin/Desktop/Schools4/APBD/Zajęcia6/WebApplication2/WebApplication2/obj/Debug/netcoreapp3.1/WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+/Users/admin/Desktop/Schools4/APBD/Zajęcia6/WebApplication2/WebApplication2/obj/Debug/netcoreapp3.1/WebApplication2.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Schools4/APBD/Zajęcia6/WebApplication2/WebApplication2/obj/Debug/netcoreapp3.1/WebApplication2.AssemblyInfo.cs
+/Users/admin/Desktop/Schools4/APBD/Zajęcia6/WebApplication2/WebApplication2/obj/Debug/netcoreapp3.1/WebApplication2.RazorTargetAssemblyInfo.cache
+/Users/admin/Desktop/Schools4/APBD/Zajęcia6/WebApplication2/WebApplication2/obj/Debug/netcoreapp3.1/staticwebassets/WebApplication2.StaticWebAssets.Manifest.cache
+/Users/admin/Desktop/Schools4/APBD/Zajęcia6/WebApplication2/WebApplication2/obj/Debug/netcoreapp3.1/staticwebassets/WebApplication2.StaticWebAssets.xml
+/Users/admin/Desktop/Schools4/APBD/Zajęcia6/WebApplication2/WebApplication2/obj/Debug/netcoreapp3.1/WebApplication2.dll
+/Users/admin/Desktop/Schools4/APBD/Zajęcia6/WebApplication2/WebApplication2/obj/Debug/netcoreapp3.1/WebApplication2.pdb

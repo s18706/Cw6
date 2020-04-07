@@ -36,7 +36,7 @@ namespace WebApplication2.Middlewares
                     bodyStr = await reader.ReadToEndAsync();
                 }
 
-                using (StreamWriter outputFile = new StreamWriter(Path.Combine("WriteLines.txt"),true))
+                using (StreamWriter outputFile = new StreamWriter(Path.Combine("requestsLog.txt"),true))
                 {
                     outputFile.WriteLine($"{metoda}  | {sciezka} \nbody | {bodyStr} \nquery| {querystring}\n");
                 }

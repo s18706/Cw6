@@ -76,14 +76,8 @@ namespace WebApplication2
                 await next();
             });
             
-
-
-            app.UseRouting();  // /api/students/10/grades GET   -->  StudentsController i GetStudents
-
+            app.UseRouting();
             app.UseAuthorization();
-
-            //......
-
             app.UseEndpoints(endpoints => 
             {
                 endpoints.MapControllers();
