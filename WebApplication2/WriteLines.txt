@@ -1,0 +1,24 @@
+GET | /api/students 
+    |  
+    | 
+
+GET  | /api/students 
+body |  
+query| 
+
+POST  | /api/students 
+body | {"IndexNumber": "1234","FirstName": "Andrzej","LastName": "Malewski","BirthDate": "2000-01-05","Studies": "PJATK"} 
+query| 
+
+GET  | /api/students 
+body |  
+query| 
+
+GET  | /api/students 
+body |  
+query| 
+
+POST  | /api/students 
+body | {"IndexNumber": "1234","FirstName": "Andrzej","LastName": "Malewski","BirthDate": "2000-01-05","Studies": "PJATK"} 
+query| 
+
